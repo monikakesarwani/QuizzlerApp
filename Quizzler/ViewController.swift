@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     var pickedAnswer: Bool = false
     var questionNumber: Int = 0
     var score : Int = 0
+    var score1 : Int = 1
     
     
     @IBOutlet weak var questionLabel: UILabel!
